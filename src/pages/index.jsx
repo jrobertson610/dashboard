@@ -1,0 +1,5 @@
+export { default as Contact } from './Contact'
+export { default as Sales } from './Sales'
+export { default as Donos } from './Reports/Donos'
+export { default as SalesReports } from './Reports/SalesReports'
+export { default as Dashboard } from './Dashboard'
